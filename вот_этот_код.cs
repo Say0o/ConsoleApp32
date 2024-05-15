@@ -1,6 +1,6 @@
 using System;
 
-// Абстрактный класс "Театр"
+// Абстрактный класс "Театр" [eq
 abstract class Theatre
 {
     // Поля
